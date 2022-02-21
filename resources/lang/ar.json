@@ -1,0 +1,23 @@
+{
+    "message": "مرحبا",
+    "navbar": {
+        "menu": "قائمة",
+        "dashboard": "لوحة التحكم",
+        "brands": "الماركات",
+        "dealerships": "الوكلاء",
+        "team": "فريق العمل"
+    },
+    "login": {
+        "login": "تسجيل الدخول",
+        "logout": "تسجيل الخروج",
+        "login_form": "نموذج تسجيل الدخول",
+        "email": "الايميل",
+        "password": "كلمة المرور"
+    },
+    "app_name": "تطبيق سيارات",
+    "select_lang": "اختر اللغة",
+    "english": "EN",
+    "arabic": "AR",
+    "sales": "مبيعات",
+    "clients": "الزبائن"
+}

@@ -1,0 +1,23 @@
+{
+    "message": "hello",
+    "navbar": {
+        "menu": "Menu",
+        "dashboard": "Dashboard",
+        "brands": "Brands",
+        "dealerships": "Dealerships",
+        "team": "Team"
+    },
+    "login": {
+        "login": "Login",
+        "logout": "Logout",
+        "login_form": "Login form",
+        "email": "Email",
+        "password": "Password"
+    },
+    "app_name": "Cars Application",
+    "select_lang": "Select Language",
+    "english": "EN",
+    "arabic": "AR",
+    "sales": "Sales",
+    "clients": "Clients"
+}
